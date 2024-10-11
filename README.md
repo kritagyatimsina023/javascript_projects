@@ -1,1 +1,1 @@
-# Guess_number
+Simple projects for js beginners
