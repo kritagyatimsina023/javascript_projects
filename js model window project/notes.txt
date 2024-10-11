@@ -1,0 +1,17 @@
+keyboard events are global events
+keyboardevents happens every where in the documents 
+document.addEventLintener('')
+
+
+
+keyboardUp when we lift the key off the keyboad
+keydown when we press the key 
+const  CloseModal = function(){
+    events handling 
+}
+
+
+
+btn.addEventLinteners("click",CloseModal{
+    
+})
