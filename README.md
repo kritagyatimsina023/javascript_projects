@@ -1,2 +1,2 @@
-Simple projects for js beginners
+Simple projects for js beginners,
 Less care about HTML and CSS!! Just focus on bulding logic (Js part) (all of this project focues on basic of js([array,function,loop]methods) + DOM manipulation + fetching API's(Async-Await)).......
