@@ -1,0 +1,1 @@
+containerMovements.innerHTML = "";  initially container should be empty 
