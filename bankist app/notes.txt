@@ -1,1 +1,8 @@
 containerMovements.innerHTML = "";  initially container should be empty 
+
+properties of form is 
+(1) default submit when we click the page reloads
+(2) to remove it, callback function parameter must consist of e events 
+(3) when we hit enter then by default it submit or perform action
+
+notes;  input field in web (like form , lin btn) , its values are always in string must be converted to number if need be
